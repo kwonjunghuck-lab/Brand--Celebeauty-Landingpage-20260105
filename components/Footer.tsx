@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
   };
 
   const handleOpenServiceIntro = () => {
-    window.open('https://drive.google.com/file/d/1Ak9kX-xiAc4Kjbj2wr85AjhIm7dTIq3W/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1hCk-8PEb_yEMoTrQOWvrl18HznZKMjvR/view?usp=sharing', '_blank');
   };
 
   return (
