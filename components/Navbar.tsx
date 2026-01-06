@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Sparkles, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import Button from './ui/Button';
 import { NAV_LINKS } from '../constants';
 
@@ -30,11 +30,8 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
         
         {/* Logo Group */}
-        <div className="flex items-center space-x-2.5 cursor-pointer group" onClick={scrollToTop}>
-          <div className="w-9 h-9 bg-gradient-to-tr from-brand-600 to-brand-500 rounded-xl flex items-center justify-center text-white shadow-lg shadow-brand-500/20 group-hover:scale-110 transition-transform duration-300">
-            <Sparkles size={20} fill="currentColor" className="text-white" />
-          </div>
-          <span className="text-xl font-bold text-brand-600 font-logo tracking-normal">Celebeauty</span>
+        <div className="flex items-center cursor-pointer group" onClick={scrollToTop}>
+          <span className="text-3xl sm:text-[34px] font-logo text-brand-600 tracking-tight transition-transform duration-300 group-hover:scale-105 select-none">Celebeauty</span>
         </div>
         
         {/* Desktop Nav Links */}
