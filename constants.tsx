@@ -49,8 +49,8 @@ export const PAIN_POINTS: PainPoint[] = [
   },
   {
     id: 2,
-    title: "무분멸한 DM, 메일의 한계",
-    desc: "수백 번 보내도 회신은 없고 계정 정지 위험까지, 비횰적인 방식만 반복하고 계실까요?",
+    title: "무분별한 DM, 메일의 한계",
+    desc: "수백 번 보내도 회신은 없고 계정 정지 위험까지, 비효율적인 방식만 반복하고 계실까요?",
     icon: Users,
   },
   {

@@ -49,8 +49,8 @@ export const PAIN_POINTS: PainPoint[] = [
   },
   {
     id: 2,
-    title: "무분멸한 DM, 메일의 한계",
-    desc: "수백 번 보내도 회신은 없고 계정 정지 위험까지, 비횰적인 방식만 반복하고 계실까요?",
+    title: "무분별한 DM, 메일의 한계",
+    desc: "수백 번 보내도 회신은 없고 계정 정지 위험까지, 비효율적인 방식만 반복하고 계실까요?",
     icon: Users,
   },
   {
@@ -125,20 +125,20 @@ export const FEATURES: Feature[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     quote: "셀럽뷰티와 진행한 캠페인은 단순 매출 상승에 그치지 않고, 브랜드 인지도까지 함께 끌어올리는 성과를 만들었습니다. 짧은 기간 안에 제품을 시장에 각인시키는 데 매우 효과적이었어요.",
-    author: "뷰티 브랜드 A사",
-    role: "마케팅 팀장",
+    author: "김OO",
+    role: "색조 뷰티 브랜드 R사",
     img: "https://api.dicebear.com/9.x/lorelei/svg?seed=Aneka"
   },
   {
     quote: "저희 제품의 핵심 소구점을 정확히 짚어주고, 그 소구점과 결이 맞는 검증된 셀럽과 매칭해주셔서 콘텐츠 퀄리티와 성과 모두 기대 이상으로 나왔습니다.",
-    author: "기초 브랜드 B사",
-    role: "BM (브랜드 매니저)",
+    author: "이OO",
+    role: "간편식 식품 브랜드 D사",
     img: "https://api.dicebear.com/9.x/lorelei/svg?seed=qwe&beardProbability=0&earringsProbability=100&hairAccessoriesProbability=100"
   },
   {
-    quote: "셀럽 선별부터 운영·관리까지 전담 매니저가 체계적으로 지원해주셔서 기획전 부담이 크게 줄었습니다. 덕분에 내부 마케팅 리소스를 아끼고 다른 활동에 재투자할 수 있었고, 결과적으로 단기간에 더 좋은 성과를 만들 수 있었습니다.",
-    author: "색조 브랜드 C사",
-    role: "마케팅 총괄",
+    quote: "셀럽 선별부터 운영·관리까지 전담 매니저가 체계적으로 지원해주셔서 기획전 부담이 크게 줄었습니다. 덕분에 내부 마케팅 리소스를 아끼고 다른 활동에 재투자할 수 있었습니다.",
+    author: "권OO",
+    role: "스킨케어 뷰티 브랜드 T사",
     img: "https://api.dicebear.com/7.x/lorelei/svg?seed=Celina"
   },
 ];
@@ -146,7 +146,7 @@ export const TESTIMONIALS: Testimonial[] = [
 export const FAQ_ITEMS: FAQItem[] = [
   {
     question: "서비스 이용에 들어가는 비용이 따로 있을까요?",
-    answer: "별도의 가입비나 유지비는 없습니다.  브랜드는 셀럽에 따른 일정 수준의 원고료와 판매 발생 시 수수료만 부담하시면 됩니다.  즉, 성과가 나지 않으면 불필요한 비용도 발생하지 않습니다."
+    answer: "별도의 가입비나 유지비는 없습니다. 브랜드는 셀럽에 따른 일정 수준의 원고료와 판매 발생 시 수수료만 부담하시면 됩니다.  즉, 성과가 나지 않으면 불필요한 비용도 발생하지 않습니다."
   },
   {
     question: "서비스 이용에 필요한 단계가 어떻게 되나요?",
