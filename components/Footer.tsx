@@ -118,11 +118,11 @@ const Footer: React.FC = () => {
               <h4 className="text-white text-lg font-bold mb-6">고객 문의</h4>
               <div className="flex items-center gap-2 text-white font-bold text-base">
                 <Phone size={14} className="text-brand-400" />
-                <span>010-2402-0924</span>
+                <span>010-3832-7432</span>
               </div>
               <div className="flex items-center gap-2">
                 <User size={14} className="text-slate-500" />
-                <span>고객 문의 매니저 : 김준성</span>
+                <span>고객 문의 매니저 : 김도언</span>
               </div>
               <div className="flex items-start gap-2">
                 <Clock size={14} className="text-slate-500 mt-1" />
@@ -138,7 +138,7 @@ const Footer: React.FC = () => {
               <h4 className="text-white text-lg font-bold mb-6">서포트 이메일</h4>
               <div className="flex items-center gap-2 text-brand-300 font-medium">
                 <Mail size={14} />
-                <a href="mailto:dkssud374@celeblife.co.kr" className="hover:underline">dkssud374@celeblife.co.kr</a>
+                <a href="mailto:eddy@celeblife.co.kr" className="hover:underline">eddy@celeblife.co.kr</a>
               </div>
             </div>
             
