@@ -82,7 +82,7 @@ const Hero: React.FC = () => {
         {/* Secondary CTA Link */}
         <div className="text-center mb-20 animate-fade-in-up opacity-0" style={{ animationDelay: '550ms', animationFillMode: 'forwards' }}>
           <a 
-            href="https://www.celebeauty.co.kr/" 
+            href="https://www.celeblife.co.kr/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-sm font-medium text-slate-500 hover:text-brand-600 transition-colors underline underline-offset-4 decoration-slate-300 hover:decoration-brand-500"
@@ -105,7 +105,7 @@ const Hero: React.FC = () => {
                   <div className="w-3 h-3 rounded-full bg-slate-300" />
                 </div>
                 <div className="px-4 py-1 bg-white rounded-md border border-gray-200 text-[10px] font-medium text-slate-400 shadow-sm hidden sm:block">
-                  celebeauty.ai/brand/matching
+                  celeblife.co.kr/brand/matching
                 </div>
                 <div className="w-4" />
               </div>

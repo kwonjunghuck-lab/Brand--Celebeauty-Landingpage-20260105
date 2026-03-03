@@ -57,7 +57,7 @@ const Testimonials: React.FC = () => {
                     <div className={`w-6 h-6 rounded-full flex items-center justify-center ${isDarkCard ? 'bg-white/10' : 'bg-brand-100'}`}>
                       <Sparkles size={12} className={isDarkCard ? 'text-white' : 'text-brand-600'} fill="currentColor" />
                     </div>
-                    <span className={`text-sm font-bold font-logo tracking-normal ${isDarkCard ? 'text-white' : 'text-slate-900'}`}>Celebeauty</span>
+                    <span className={`text-sm font-bold font-logo tracking-normal ${isDarkCard ? 'text-white' : 'text-slate-900'}`}>CelebLife</span>
                   </div>
                   
                   {/* Reduced font size for longer text */}

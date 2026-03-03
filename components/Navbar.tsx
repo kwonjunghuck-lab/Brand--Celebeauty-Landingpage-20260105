@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import Button from './ui/Button';
+import Logo from './Logo';
 import { NAV_LINKS } from '../constants';
 
 const Navbar: React.FC = () => {
@@ -31,7 +32,7 @@ const Navbar: React.FC = () => {
         
         {/* Logo Group */}
         <div className="flex items-center cursor-pointer group" onClick={scrollToTop}>
-          <span className="text-3xl sm:text-[34px] font-logo text-brand-600 tracking-tight transition-transform duration-300 group-hover:scale-105 select-none">Celebeauty</span>
+          <Logo className="transition-transform duration-300 group-hover:scale-105 select-none" />
         </div>
         
         {/* Desktop Nav Links */}

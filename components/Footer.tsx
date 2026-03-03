@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
             {/* Secondary CTA Link */}
             <div className="text-center">
               <a 
-                href="https://www.celebeauty.co.kr/" 
+                href="https://www.celeblife.co.kr/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-sm font-medium text-violet-200 hover:text-white transition-colors underline underline-offset-4 decoration-violet-400 hover:decoration-white"
@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
             {/* Column 1: Company Details */}
             <div className="space-y-4">
               <h4 className="text-white text-lg font-bold mb-6">
-                <span className="font-logo font-bold">Celebeauty</span>
+                <span className="font-logo font-bold text-2xl tracking-wide">CelebLife</span>
                 <span className="ml-2">I (주) 꿈선생</span>
               </h4>
               <div className="flex items-center gap-2">
@@ -138,7 +138,7 @@ const Footer: React.FC = () => {
               <h4 className="text-white text-lg font-bold mb-6">서포트 이메일</h4>
               <div className="flex items-center gap-2 text-brand-300 font-medium">
                 <Mail size={14} />
-                <a href="mailto:dkssud374@celebeauty.co.kr" className="hover:underline">dkssud374@celebeauty.co.kr</a>
+                <a href="mailto:dkssud374@celeblife.co.kr" className="hover:underline">dkssud374@celeblife.co.kr</a>
               </div>
             </div>
             

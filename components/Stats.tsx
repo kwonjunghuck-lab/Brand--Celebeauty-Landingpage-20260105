@@ -47,7 +47,7 @@ const Stats: React.FC = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-300 to-brand-500 ml-2">압도적 성과</span>
           </h2>
           <p className="text-slate-400 text-lg max-w-3xl mx-auto break-keep leading-relaxed">
-            감이나 운에 맡기지 마세요. 셀럽뷰티는 수십만 건의 커머스 데이터를 기반으로 확실한 결과를 만듭니다.
+            감이나 운에 맡기지 마세요. CelebLife는 수십만 건의 커머스 데이터를 기반으로 확실한 결과를 만듭니다.
           </p>
         </div>
         
