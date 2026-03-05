@@ -4,11 +4,11 @@ import { Sparkles, ArrowRight, FileText, User, MapPin, Phone, Clock, Mail } from
 
 const Footer: React.FC = () => {
   const handleApply = () => {
-    window.open('https://walla.my/a/celebeautybrand.apply', '_blank');
+    window.open('https://walla.my/a/celeblifebrand.apply', '_blank');
   };
 
   const handleOpenServiceIntro = () => {
-    window.open('https://drive.google.com/file/d/1hCk-8PEb_yEMoTrQOWvrl18HznZKMjvR/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1yHrFrDszPTCoV5aR5QoxP_Ay0IzXj7Fp/view?usp=sharing', '_blank');
   };
 
   return (
@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
             {/* Secondary CTA Link */}
             <div className="text-center">
               <a 
-                href="https://www.celeblife.co.kr/" 
+                href="https://celeb.celeblife.co.kr/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-sm font-medium text-violet-200 hover:text-white transition-colors underline underline-offset-4 decoration-violet-400 hover:decoration-white"

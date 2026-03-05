@@ -17,7 +17,7 @@ const Navbar: React.FC = () => {
   }, []);
 
   const handleApply = () => {
-    window.open('https://walla.my/a/celebeautybrand.apply', '_blank');
+    window.open('https://walla.my/a/celeblifebrand.apply', '_blank');
   };
 
   const scrollToTop = () => {

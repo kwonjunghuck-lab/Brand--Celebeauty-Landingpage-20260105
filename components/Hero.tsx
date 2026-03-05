@@ -5,11 +5,11 @@ import { FileText, Sparkles, CheckCircle, BarChart3, ChevronRight, Star, Users, 
 
 const Hero: React.FC = () => {
   const handleApply = () => {
-    window.open('https://walla.my/a/celebeautybrand.apply', '_blank');
+    window.open('https://walla.my/a/celeblifebrand.apply', '_blank');
   };
 
   const handleOpenServiceIntro = () => {
-    window.open('https://drive.google.com/file/d/1hCk-8PEb_yEMoTrQOWvrl18HznZKMjvR/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1yHrFrDszPTCoV5aR5QoxP_Ay0IzXj7Fp/view?usp=sharing', '_blank');
   };
 
   const titleParts = HERO_CONTENT.title.split('\n');
@@ -82,7 +82,7 @@ const Hero: React.FC = () => {
         {/* Secondary CTA Link */}
         <div className="text-center mb-20 animate-fade-in-up opacity-0" style={{ animationDelay: '550ms', animationFillMode: 'forwards' }}>
           <a 
-            href="https://www.celeblife.co.kr/" 
+            href="https://celeb.celeblife.co.kr/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-sm font-medium text-slate-500 hover:text-brand-600 transition-colors underline underline-offset-4 decoration-slate-300 hover:decoration-brand-500"

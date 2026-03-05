@@ -273,7 +273,7 @@ const HowItWorks: React.FC = () => {
   }, [activeTab]);
 
   const handleApply = () => {
-    window.open('https://walla.my/a/celebeautybrand.apply', '_blank');
+    window.open('https://walla.my/a/celeblifebrand.apply', '_blank');
   };
 
   return (

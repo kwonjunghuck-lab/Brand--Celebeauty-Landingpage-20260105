@@ -4,7 +4,7 @@ import { MessageCircle } from 'lucide-react';
 const ChannelTalkBtn: React.FC = () => {
   return (
     <a 
-      href="http://pf.kakao.com/_nLgxmn/chat" 
+      href="http://pf.kakao.com/_DENqX/chat" 
       target="_blank" 
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 group" 
